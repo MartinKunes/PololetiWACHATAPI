@@ -14,9 +14,9 @@ https://www.slimframework.com/
 ----------------------------
 spuštění na serveru localhost:
 
-1. staženýrozbalený soubor zkouska vložíte do složky xampp\htdocs
+1. staženýrozbalený soubor SkolaRestApi vložíte do složky xampp\htdocs
 2. druhý soubor register vložíte do složky xampp\mysql\data
-3. Soubor SkolaRestApi si otevřete v kódovacím programu
+3. SkolaRestApi si otevřete v kódovacím programu
 4. Zapněte si xampp control panel a spusťte apache a mysql
 5. do terminálu v kódovacím programu vložte tento příkaz: php server.php
 6. Poté otevřete Register.php a zaregistrujte se a poté pro ověření přihlašte
@@ -24,7 +24,7 @@ spuštění na serveru localhost:
 
 spuštění RestAPI na localhost:
 
-1. staženýrozbalený soubor zkouska vložíte do složky xampp\htdocs
+1. stažený rozbalený soubor SkolaRestApi vložíte do složky xampp\htdocs
 2. druhý soubor register vložíte do složky xampp\mysql\data
 3. SkolaRestApi si otevřete v kódovacím programu
 4. Zapněte si xampp control panel a spusťte apache a mysql
