@@ -1,4 +1,5 @@
 -QuickNote: Bohužel framework má moc souborů, takže když stahujete z githubu, tak se musíte proklikat několika zipama.
+- Ceůý projekt je odevzdaný na moodle, protože na github je soubor moc velký...
 # ProjektWAPololetni
 programy potřebné ke spuštění:
 Aplikace byla vytvořena pomocí ratchet a slim framework v PHP s xampp. Využívá se také apache a mysql.
