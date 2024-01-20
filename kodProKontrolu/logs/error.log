@@ -1,0 +1,2 @@
+[2024-01-20 15:35:07] An error has occurred: Unknown column 'room_id' in 'field list'
+[2024-01-20 15:36:27] An error has occurred: Cannot add or update a child row: a foreign key constraint fails (`register`.`messages`, CONSTRAINT `messages_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `register` (`id`))
